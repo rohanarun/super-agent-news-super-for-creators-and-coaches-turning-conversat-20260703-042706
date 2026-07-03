@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[superintern.ai](https://www.superintern.ai/blog/how-indie-creators-manage-everything-one-ai-tool)",
+    "[ampcome.com](https://www.ampcome.com/post/how-to-automate-content-creation-2026-guide)",
+    "[yahoo.com](https://finance.yahoo.com)",
+    "[mit.edu](https://news.mit.edu)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=2-3 lines @1120px; bento_density=grid-auto-flow:dense verified; label_sweep=competitors mentioned; button_contrast=black/white pills OK",
+  "generated_at": "2026-07-03T04:27:12.934799+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion\u2011focused niche landing page for creators and coaches who want a personal AI agent that turns calls, DMs, and voice notes into published content and back\u2011office updates. Super operates real apps, reuses a computer\u2011use cache for repeated workflows, and is positioned as the sharper alternative to chat\u2011only assistants when work needs to actually get done."
+}
